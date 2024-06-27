@@ -1,0 +1,23 @@
+# Append/prepend years and seasons
+$[2020-2024]$
+^[summer|winter|spring|fall]$
+
+# Toggle case variations
+c
+u
+l
+
+# Add common symbols and numbers at the end
+$[@#!$%&]
+$[0-9]
+
+# Leetspeak substitutions
+sa@
+se$
+si1
+so0
+su$
+
+# Combine elements for more complex transformations
+c$[2020-2024]$[summer|winter|spring|fall]$
+^[summer|winter|spring|fall]$c$[2020-2024]$
