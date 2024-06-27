@@ -1,52 +1,17 @@
-# Append/prepend years and seasons
 $[2020-2024]$
 ^[summer|winter|spring|fall]$
-
-# Toggle case variations
 c
 u
 l
-
-# Add common symbols and numbers at the end
 $[@#!$%&]
 $[0-9]
-
-# Leetspeak substitutions
 sa@
 se$
 si1
 so0
 su$
-
-# Combine elements for more complex transformations
 c$[2020-2024]$[summer|winter|spring|fall]$
 ^[summer|winter|spring|fall]$c$[2020-2024]$
-
-##################################################################
-# ***              OneRuleToRuleThemStill                    *** #
-#       							 #
-#    An optimised revamp of OneRuleToRuleThemAll                 #
-#								 #
-#    ~5% rules reduction with 0% performance loss  		 #
-#    against Lifeboat and LastFM data breaches            	 #
-#                                                     		 #
-#    Updates:                                               	 #
-#    - De-duplication of resulting candidate generation     	 #
-#      (previously literal strings only)                	 #
-#    - Added LastFM breach dataset (~21m unique hashes)   	 #
-#    - Common non-matching rules removed (Lifeboat and LastFM) 	 #
-#    - Ordered by frequency against LastFM                     	 # 
-#                                                              	 #
-#    Blog: https://in.security/2023/01/10/                       #
-#          oneruletorulethemstill-new-and-improved/              #
-#                                                              	 #
-#    Discord:  https://discord.gg/5VpwE9YJ9R             	 #
-#    Twitter:  @Stealthsploit                            	 #
-#    Mastodon: @Stealthsploit@infosec.exchange 			 #
-#    Web:      https://in.security                      	 #
-#                                                      		 #
-# ***                   v1.3 22/12/23                        *** #
-##################################################################
 :
 ,7 ]
 ,8 $9
