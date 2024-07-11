@@ -13,18 +13,35 @@ su$
 c$[2020-2024]$[summer|winter|spring|fall]$
 ^[summer|winter|spring|fall]$c$[2020-2024]$
 :
-^a ^t ^t
-^w ^i ^r ^e ^l ^e ^s ^s
-^i ^n ^t ^e ^r ^n ^e ^t
-$a$t$t 
-$w$i$r$e$l$e$s$s   
-$i$n$t$e$r$n$e$t   
-i5a i6t i7t    
-i5w i6i i7r i8e i9l i10e i11s i12s  
-i5i i6n i7t i8e i9r i10n i11e i12t 
-r0a r1t r2t  
-r0w r1i r2r r3e r4l r5e r6s r7s    
-r0i r1n r2t r3e r4r r5n r6e r7t
+^a ^t ^t          
+^w ^i ^r ^e ^l ^e ^s ^s 
+^i ^n ^t ^e ^r ^n ^e ^t   
+^d ^a ^t ^a     
+$a$t$t       
+$w$i$r$e$l$e$s$s 
+$i$n$t$e$r$n$e$t
+$d$a$t$a    
+i5a i6t i7t   
+i5w i6i i7r i8e i9l i10e i11s i12s
+i5i i6n i7t i8e i9r i10n i11e i12t
+i5d i6a i7t i8a         
+r0a r1t r2t          
+r0w r1i r2r r3e r4l r5e r6s r7s 
+r0i r1n r2t r3e r4r r5n r6e r7t 
+r0d r1a r2t r3a            
+^p ^a ^s ^s         
+^1 ^2 ^3 ^4         
+^p ^a ^s ^s ^w ^o ^r ^d 
+$p$a$s$s       
+$1$2$3$4             
+$p$a$s$s$w$o$r$d     
+i5p i6a i7s i8s           
+i5p i6a i7s i8s i9w i10o i11r i12d 
+i51234   
+r0p r1a r2s r3s        
+r0p r1a r2s r3s r4w r5o r6r r7d 
+r01 r12 r23 r34 
+
 ,7 ]
 ,8 $9
 ,6 $1
